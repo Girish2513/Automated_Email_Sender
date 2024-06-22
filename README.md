@@ -1,1 +1,2 @@
 # Automated_Email_Sender
+This project presents the design and implementation of an automated email sender using Python, aimed at streamlining and automating the process of email communication. The automated email sender is a versatile tool that can be utilized for various applications such as sending notifications, marketing emails, reports, reminders, and more. By leveraging Python's smtplib and email libraries, this system can compose and send emails automatically based on predefined criteria or schedules.
