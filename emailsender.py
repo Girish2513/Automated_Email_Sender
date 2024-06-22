@@ -21,8 +21,8 @@ from email import encoders
 # load_dotenv(envars)
 PORT= 587
 EMAIL_SERVER='smtp.gmail.com'
-sender_email='girishsaana2513@gmail.com'
-password_email='pdoiooymmoznptxx'
+sender_email='****'
+password_email='****'
 
 def send_email(subject,receiver_email,name,duedate,due,totalfee,rollno):
     msg=MIMEMultipart()
